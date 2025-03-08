@@ -1,0 +1,3 @@
+fastapi
+mindsdb_sdk
+uvicorn
